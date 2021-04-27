@@ -1,2 +1,2 @@
 # Angora
-Landing Page
+Responsive Landing Page
